@@ -1,0 +1,6 @@
+{
+    "dbConnection": "mongodb://localhost:27017/kahfChat-DB",
+    "mode": "Production",
+    "LiveIp": "http://kahfchat.com",
+    "SENDGRID_API_KEY": "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"
+}
